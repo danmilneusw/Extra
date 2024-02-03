@@ -1,3 +1,4 @@
+# Extra
 ## Techniques and Profiling Tools Taught
 Use this to locate where we discussed optimisation techniques and measurement tools.
 
@@ -21,36 +22,40 @@ Use this to locate where we discussed optimisation techniques and measurement to
 - Unity Profiler - Audio Module
 
 ### Week 3 - [03-Level-of-Detail](https://github.com/danmilneusw/03-Level-of-Detail)
-**Measurement tools:**
-- Unity Profiler - GPU Usage Module
-- Unity Memory Profiler
-- Profiling a build
-
 **Optimisation Techniques:**
 - General LOD (the material discusses texture compression as a General LOD example)
 - Discrete LOD
 - Continuous LOD (aside from mentioning Nanite, we didn't discuss this, but it is fairly similar to DLOD)
 - LOD - Fog (also works for other view-blocking elements)
 
+**Measurement tools:**
+- Unity Profiler - GPU Usage Module
+- Unity Memory Profiler
+- Profiling a build
 
 ### Week 4 - [04-Draw-Calls](https://github.com/danmilneusw/04-Draw-Calls)
-**Measurement tools:**
-- Frame Debugger
-- Overdraw Detector
-
 **Optimisation Techniques:**
 - GPU Instancing
 - Occlusion Culling
 
-## Tips
+**Measurement tools:**
+- Frame Debugger
+- Overdraw Detector
+
+## Assessment 1 Tips
 - You don’t have to use like-for-like examples we covered in these sessions, you can make up your own too, time slicing is fairly generalisable for example.
 
-- You should say why you are using these techniques. You must show your understanding of the optimisation technique. What is the theory behind it? Why would it improve your project?
+- You should say why you are using these techniques. You must show your understanding of the optimisation technique. What is the theory behind it? Before you implement it, explain why it should improve your project?
 
-- Profile in the editor for quick fixes, but you will get the best marks for optimising the build too at the end of each section.
+- Profile in the editor for quick fixes, but you will get the best marks if you optimise using the build tool at the end of each section.
 
-- A few of these techniques you may find are so simple that you may want to group them together in the report. Also, you can consider having a general optimisations section, for a group of more obvious or straightforward techniques, like removing console print statements. Although consider that it might not be worth prioritising this section, as it will probably give you less opportunity to discuss theory, which less chance to gain marks.
+- A few of these techniques you may find are so simple that you may want to group them together in the report. Also, you can consider having a general optimisations section, for a group of more obvious or straightforward techniques, like removing console print statements. Although consider that it might not be worth prioritising this section, as it will probably give you less opportunity to discuss theory, which means less chance to gain marks.
 
 - You can also research your own optimisation techniques and profiling tools.
 
 - The starred links in the Extra Resources part of each repository are certainly worth checking out.
+
+- Duplicate the intitial version of your project before making any changes. Once you have implemented one technique, then duplicate that and implement a second technique into the duplicate. Repeat this process so you can easily monitor the progress you make; you can easily go back to previous versions to take in-game or profiling screenshots. This would also be useful for a future portfolio (read below).
+
+## Advice for Outside of the Module
+Both assessments are designed so that you have something you can showcase as part of your portfolio. Once the module is over, I'd recommend you use your GitHub to store a portfolio (or setup a new one if you want a fresh slate) that contains your project at different levels of optimisation and the report too. The assessment is a report as this is what a client or your team might request of you. GitHub is great as there's no costs to it, unlike a website, and it's easily navigable and understandable by game dev professionals. Like the front page of [github.com/danmilneusw](github.com/danmilneusw), you can show a markdown file that has links to all of your repositories and put what you value most highly at the top. I can help you set this up if you'd like or show you my personal GitHub for some ideas, although mine is Machine Learning focused currently (please ask in-class and I can show you). 
