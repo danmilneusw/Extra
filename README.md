@@ -15,7 +15,7 @@ Use this to locate where we discussed optimisation techniques and measurement to
 - Audio management (streaming from disk)
 - Audio compression (Using OGG Vorbis and Nyquist-shannon)
 - Audio culling (reducing the total number of voices and setting priorities)
-- Synthetic audio generation (in our example we made a clip of lots of footsteps a single footstep and added random pitch and volume variation
+- Synthetic audio generation (in our example we made a clip of lots of footsteps a single footstep and added random pitch and volume variation)
 
 **Measurement Tools:**
 - Unity Profiler - Audio Module
