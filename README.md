@@ -44,7 +44,7 @@ Use this to locate where we discussed optimisation techniques and measurement to
 
 ### Week 5 - [05-Garbage-Collection](https://github.com/danmilneusw/05-Garbage-Collection)
 **Optimisation Techniques:**
-- Object Pooling
+- Garbage Collection management (specifcally Object Pooling)
 
 **Measurement tools:**
 - Unity Profiler (again)
