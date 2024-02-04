@@ -42,6 +42,13 @@ Use this to locate where we discussed optimisation techniques and measurement to
 - Frame Debugger
 - Overdraw Detector
 
+### Week 5 - [05-Garbage-Collection](https://github.com/danmilneusw/05-Garbage-Collection)
+**Optimisation Techniques:**
+- Object Pooling
+
+**Measurement tools:**
+- Unity Profiler (again)
+
 ## Assessment 1 Tips
 - You don’t have to use like-for-like examples we covered in these sessions, you can make up your own too, time slicing is fairly generalisable for example.
 
