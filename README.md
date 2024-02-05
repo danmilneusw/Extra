@@ -72,4 +72,4 @@ These are some resources I have used, highly recommend and think you'll find int
 - [Catlike Coding](https://catlikecoding.com/unity/tutorials/) - Excellent Unity tutorials from someone who is clearly an industry professional. Includes basic to more advanced tutorials.
 - [Acerola](https://www.youtube.com/@Acerola_t) - Entertaining and educational graphics programming and general game development YouTube channel.
 
-Acerola has recently announced a new game jam. Unlike other game jams it runs for two weeks (so no stressful 48 hour time limits) and is intended for individuals (so you're not disadvantaged by difference in team sizes). You can learn more in his [YouTube video](https://youtu.be/uqI9EoAWeUE?si=tj7oBPkEfZ6_aO0T). I will be taking part😁
+Acerola has recently announced a new game jam. Unlike other game jams it runs for two weeks (so no stressful 48 hour time limits) and is intended for individuals (so you're not disadvantaged by difference in team sizes). You can learn more in his [YouTube video](https://youtu.be/uqI9EoAWeUE?si=tj7oBPkEfZ6_aO0T). I will be taking part😁. It starts on February 28th.
