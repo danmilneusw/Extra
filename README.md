@@ -1,4 +1,9 @@
 # Extra
+## This Repo
+- **README.md**: Lots of helpful info (this page).
+- **Unity Project - Completed DLOD Tutorial**: The completed tutorial from week 3 (just excluding the large monkey mesh due to its high file size).
+- **Unity Project - Performance UI**: A part of the [Catlike Coding - Measuring Performance](https://catlikecoding.com/unity/tutorials/basics/measuring-performance/) tutorial that includes an FPS and frame duration UI.
+
 ## Techniques and Profiling Tools Taught
 Use this to locate where we discussed optimisation techniques and measurement tools.
 
