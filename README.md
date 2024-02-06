@@ -57,7 +57,7 @@ Use this to locate where we discussed optimisation techniques and measurement to
 ## Assessment 1 Tips
 - You don’t have to use like-for-like examples we covered in these sessions, you can make up your own too, time slicing is fairly generalisable for example.
 
-- You should say why you are using these techniques. You must show your understanding of the optimisation technique. What is the theory behind it? Before you implement it, explain why it should improve your project?
+- You should say why you are using these techniques. You must show your understanding of the optimisation technique. What is the theory behind it? Before you implement it, explain why it should improve your project.
 
 - Profile in the editor for quick fixes, but you will get the best marks if you optimise using the build tool at the end of each section.
 
