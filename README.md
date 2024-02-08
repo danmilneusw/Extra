@@ -59,6 +59,7 @@ Use this to locate where we discussed optimisation techniques and measurement to
 - Texture Compression
 - 2D Camera Culling
 - Mentions Mipmaps and texture streaming Mipmaps
+- Mentions Sprite Atlasing using the Unity Sprite Packer
 - Hints of previously heard ideas for Object Pooling and GPU Instancing
 
 **Measurement tools:**
