@@ -54,6 +54,18 @@ Use this to locate where we discussed optimisation techniques and measurement to
 **Measurement tools:**
 - Unity Profiler (again)
 
+### Week 6 - [06-2D-Game-Optimisation](https://github.com/danmilneusw/06-2D-Game-Optimisation)
+**Optimisation Techniques:**
+- Texture Compression
+- 2D Camera Culling
+- Hints of ideas for Object Pooling and GPU Instancing.
+
+**Measurement tools:**
+- Memory Profiler (also used in Week 3)
+- Profile Analyzer (also used in Week 1)
+- Profiling a build (also discussed in Week 3)
+- Frame Debugger (very briefly. Check Week 4 for more in-depth usage)
+
 ## Assessment 1 Tips
 - You don’t have to use like-for-like examples we covered in these sessions, you can make up your own too, time slicing is fairly generalisable for example.
 
