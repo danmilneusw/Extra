@@ -58,7 +58,8 @@ Use this to locate where we discussed optimisation techniques and measurement to
 **Optimisation Techniques:**
 - Texture Compression
 - 2D Camera Culling
-- Hints of ideas for Object Pooling and GPU Instancing.
+- Mentions Mipmaps and texture streaming Mipmaps
+- Hints of previously heard ideas for Object Pooling and GPU Instancing
 
 **Measurement tools:**
 - Memory Profiler (also used in Week 3)
