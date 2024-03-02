@@ -32,9 +32,19 @@ There's branches in Treforest, Newport, and Cardiff. They offer a lot of free bu
 
 There are even some highly established game developers at some of these...
 
+### Other Co-working Spaces Exist
+Sweden:
+https://www.spelkollektivet.com/
+https://x.com/spelkollektiv
+https://x.com/LenteGameDev/status/1761413965471432782?s=20
+
 ### How to Sell on Steam
 Steam takes a good chunk of your revenue, but for many it is worth it to even be able to have a platform to sell their games and be found. It's a good place to be a developer IMO.
 
 Chris Zukowski gives excellent advice on...<br>
 How to Market a Game: https://howtomarketagame.com/benchmarks/<br>
 How to Make a Steam Page: https://www.progamemarketing.com/p/howtomakeasteampage
+
+## Need to Learn More?
+OpenGL: https://learnopengl.com/<br>
+Unity and Godot: https://catlikecoding.com/
