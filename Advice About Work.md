@@ -5,9 +5,9 @@ This is my personal advice. I'm a bit of a noob to the games industry, so I can'
 Lot's of jobs across Europe:
 https://www.gamesjobsdirect.com/
 
-A typical weedkly email looks like this: https://mailchi.mp/gamesjobsdirect/looking-for-your-next-job-in-video-games-94745?e=1d46ce4060
+A typical weekly email looks like this: https://mailchi.mp/gamesjobsdirect/looking-for-your-next-job-in-video-games-94745?e=1d46ce4060
 
-Surpising good but probably more likely to see general computing job listings and fewer game dev: https://careers.southwales.ac.uk/
+Surpisingly good but probably more likely to see general computing job listings and fewer game dev: https://careers.southwales.ac.uk/
 
 ## Indie Game Dev
 ### Make Like-minded Friends
