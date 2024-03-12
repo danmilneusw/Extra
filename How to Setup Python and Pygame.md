@@ -57,7 +57,7 @@ Using Anaconda Navigator allows you to create "Environments" that contain Python
 </div>
 <br>
 
-9. Finally, if you're using VS Code (I recommend you do), select the option at the bottom right or maybe bottom left on Windows to bring up the options to select a Python interpreter at the top of the screen and select your environment:
+9. Finally, if you're using VS Code (I recommend you do), open or create a Python file and select the option at the bottom right or maybe bottom left on Windows to bring up the options to select a Python interpreter at the top of the screen and select your environment:
 
 <br> 
 <div align="center">
