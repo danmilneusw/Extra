@@ -1,6 +1,11 @@
 # Advice About Work
 This is my personal advice. I'm a bit of a noob to the games industry, so I can't be confident this advice is any good, but I am atleast adding some options out there for what you might potentially want to do.
 
+## ** NEW ** Funding ** NEW **
+You can get funding to make games. I found out about this from a Startup Stiwdio contact, perhaps proving that the Startup Stiwdio is a great contact to have!
+
+https://contentfund.ukgamesfund.com/
+
 ## Working for a Game Studio
 Lot's of jobs across Europe:
 https://www.gamesjobsdirect.com/
