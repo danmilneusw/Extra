@@ -2,7 +2,7 @@
 Using Anaconda Navigator allows you to create "Environments" that contain Python packages and is seperate from your main system. This means you can uninstall Anaconda Navigator when finished with this module and it will also remove all the Python packages you installed. It's also useful for managing the Python packages you have and controlling their versions.
 
 1. Download Anaconda Navigator from the [offical site](https://www.anaconda.com/download).
-2. Install Anaconda Navigator. // Make sure you tick to also install Anaconda Prompt if given the option.
+2. Install Anaconda Navigator. (Make sure you tick to also install Anaconda Prompt if given the option.)
 3. Open Anaconda Navigator and select Environments from the left pane. You will only see "base (root)" (I have some already).
 <div align="center">
   <a href="Images\Anaconda Nav.png" target="_blank">
@@ -57,7 +57,10 @@ Using Anaconda Navigator allows you to create "Environments" that contain Python
 </div>
 <br>
 
-9. Finally, if you're using VS Code (I recommend you do), open or create a Python file and select the option at the bottom right or maybe bottom left on Windows to bring up the options to select a Python interpreter at the top of the screen and select your environment:
+9. Going back to your command prompt/Anaconda Prompt, ensure you see the name of your environment in brackets on the left to confirm it is activated and paste in the following to install SnakeViz:
+`pip install snakeviz`
+
+10. Finally, if you're using VS Code (I recommend you do), open or create a Python file and select the option at the bottom right or maybe bottom left on Windows to bring up the options to select a Python interpreter at the top of the screen and select your environment:
 
 <br> 
 <div align="center">
